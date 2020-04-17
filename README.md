@@ -64,16 +64,11 @@ to encourage further development of the tool.
 
 ## Original author
 
-  BM Hacker
-  http://www.lordreaper.tk
+  BM Hacker :
   http://www.h1ckpro.tk 
 
 
 ## Contributors
-
-  * BM Hacker
-  bmh1cker@gmail.com
-  http://www.h1ckpro.tk
 
   * BM Hacker 
     https://github.com/bmh1cker
